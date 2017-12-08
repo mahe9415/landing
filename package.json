@@ -1,7 +1,7 @@
 {
-  "name": "onlineexam",
+  "name": "landing-page",
   "version": "1.0.0",
-  "description": "online exam portal for nfnlabs",
+  "description": "My Landing Page",
   "author": "mahe <mahesh9415@gmail.com>",
   "private": true,
   "scripts": {
