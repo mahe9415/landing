@@ -66,12 +66,17 @@ export default {
 
 }
 .article{
+  margin-top: 2%;
     padding:1.8%;
   /*height: 122px;*/
   width: 371px;
   color:#4A4A4A;
+  margin-left: 1%;
   background-color: #FFFFFF;
   box-shadow: 0 0 0 1px rgba(63,63,68,0.05), 0 1px 3px 0 rgba(63,63,68,0.15);
+}
+.article:first-child{
+  margin-left:0;
 }
 .article h4{
   color:#212B36;
@@ -129,6 +134,7 @@ export default {
 .hero-container{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 /*.post-link{
   text-decoration: none;
