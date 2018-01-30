@@ -1,7 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import HelloWorld from '@/components/HelloWorld'
-import landing from '@/components/landing'
+import Landing from '@/components/Landing'
+import Gritify from '@/components/Gritify'
 
 Vue.use(Router)
 
@@ -11,7 +12,13 @@ export default new Router({
     {
       path: '/',
       name: 'HelloWorld',
-      component: landing
-    }
+      components: {
+      	default:Landing
+      }
+  },{
+  	path:'/grid',
+  	name:'grid',
+  	component:Gritify
+  }
   ]
 })

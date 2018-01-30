@@ -1,12 +1,10 @@
 <template>
  <div id="app">
-    <v-app>
 <!--       <v-parallax src="https://vuetifyjs.com/static/doc-images/parallax/material.jpg" class="parallax"> -->
       <router-view name="header"> </router-view>
-      <router-view name="content"> </router-view>
-      <router-view />
-      </v-parallax>
-      </v-app>
+      <router-view default/>
+      <router-view name="footer"/>
+      <!-- </v-parallax> -->
   </div>
 </template>
 
@@ -18,9 +16,20 @@ export default {
 
 <style>
 #app {
- 
+    background: inherit;
+    color: #fff;
+    /*padding: 2%;*/
+    /*font-family: 'Open Sans', sans-serif;*/
+
 }
-.parallax{
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito', sans-serif;
+
+	/*background: url('/static/bg.jpg');*/
+}
+/*.parallax{
 	min-height: 100vh;
-}
+}*/
 </style>

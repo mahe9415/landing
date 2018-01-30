@@ -16,10 +16,7 @@ export default {
     }
   },
   mounted(){
-  axios.get('https://apistaging.vookmark.co/video/45dc4855c6').then((data)=>{
-    
-    console.log(data);
-  })
+
   },
   computed:
     mapState({
