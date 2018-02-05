@@ -15,6 +15,8 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css?family=Nunito:300i,400,600|Open+Sans:400,600')
+
 #app {
     background: inherit;
     color: #fff;
