@@ -8,11 +8,11 @@
       <div class="social">
         <h4>Follow me:</h4>
         <span>
-          <a href="https://facebook.com/mahesh9415" target="_blank"><i class="fab fa-facebook-f"></i></a></span>
+          <a href="https://facebook.com/hellomahe" target="_blank"><i class="fab fa-facebook-f"></i></a></span>
         <span>
-          <a href="https://www.instagram.com/__m_a_h_e__" target="_blank"><i class="fab fa-instagram"></i></a></span>
+          <a href="https://www.instagram.com/hellomahe" target="_blank"><i class="fab fa-instagram"></i></a></span>
         <span>
-          <a href="https://twitter.com/_m_a_h_e" target="_blank"><i class="fab fa-twitter"></i></a></span>
+          <a href="https://twitter.com/hello_mahe" target="_blank"><i class="fab fa-twitter"></i></a></span>
       </div>
       </div>
     </div>
