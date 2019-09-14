@@ -20,7 +20,11 @@
 
     <div class="hero-wrapper">
       <div class="hero-container">
-      <p class="hero-txt hello-txt">Hello, I’m Mahesh. I am a Front end Developer. I Love Pixel Perfection.</p>
+      <p class="hero-txt hello-txt">
+      Hello, I am a software developer.
+      I Love to give elegant solutions to problem using OOPS.
+      Now I'm solving problems for <a class="cb-color" href="https://www.chargebee.com" target="blank">Chargeebee</a> in "Subscription Management Platform".
+      </p>
       <div class="hero-img">
         <img class="mahe-avatar" src="/static/mahe2X.jpg" alt="">
       </div>
@@ -288,6 +292,9 @@ and (max-device-width : 667px){
 .article h4{
   margin: 0;
 }
+}
+.cb-color{
+  color: rgb(255, 108, 54);
 }
 
 @media only screen 
