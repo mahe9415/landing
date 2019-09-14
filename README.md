@@ -1,6 +1,3 @@
-# onlineexam
-
-> online exam portal for nfnlabs
 
 ## Build Setup
 
