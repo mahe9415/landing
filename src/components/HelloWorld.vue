@@ -23,7 +23,7 @@
       <p class="hero-txt hello-txt">
       Hello, I'm Mahesh.
       I'm good at solving problems using software designs and code.
-      Now I'm solving problems for <a class="cb-color" href="https://www.chargebee.com" target="blank">Chargeebee</a> in "Subscription Management Platform".
+      Now I'm solving problems for <a class="cb-color" href="https://www.chargebee.com" target="blank">Chargebee</a> in "Subscription Management Platform".
       </p>
       <div class="hero-img">
         <img class="mahe-avatar" :src="`${publicPath}mahe2X.jpg`" alt="Mahesh">
